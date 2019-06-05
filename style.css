@@ -1,0 +1,76 @@
+body{ 
+    background-color: Grey;
+    margin: 0px 150px;
+    }
+
+
+
+.Header{
+background-color: white;
+padding: 25px;
+margin: 10px;
+text-align: Center;
+}
+
+.Nav{
+    background-color: white;
+    padding: 25px;
+    margin: 10px;
+    text-align: Center;
+}
+
+
+.Section{
+background-color: white;
+    padding: 20px;
+    margin: 10px;
+    Text-align: Center;
+    width: 529px;
+    height: 175px;
+    float: left;
+}
+    
+    
+
+.Aside{
+    background-color: white;
+    padding: 20px;
+    margin: 10px;
+    Text-align: Center;
+    width: 400px;
+    height: 175px;
+    float: right; 
+    
+} 
+
+.Footer{
+    background-color: white;
+    padding: 25px;
+    margin: 10px;
+    Text-align: Center;
+    clear: right;
+}
+
+.article{
+    background-color: grey;
+    padding:20px;
+    height:120px;
+}
+
+.h1{ 
+    background-color: white;
+padding: 15px;
+height:10px;
+margin: 10px;
+}
+
+
+div{
+    background-color: white;
+    padding: 15px;
+    height: 10px;
+    margin: 10px;
+
+
+}
+
